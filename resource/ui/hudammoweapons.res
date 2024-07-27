@@ -33,12 +33,12 @@
 		"tall"			"45"
 		"visible"		"0"
 		"enabled"		"1"
-		"image"			"../hud/ammo_red_bg"
+		"image"			"../hud/ammo_red_bg_low"
 		"scaleImage"	"1"	
-		"teambg_2"		"../hud/ammo_red_bg"
-		"teambg_2_lodef"	"../hud/ammo_red_bg_lodef"
-		"teambg_3"		"../hud/ammo_blue_bg"
-		"teambg_3_lodef"	"../hud/ammo_blue_bg_lodef"			
+		"teambg_2"		"../hud/ammo_red_bg_low"
+		"teambg_2_lodef"	"../hud/ammo_red_bg_lodef_low"
+		"teambg_3"		"../hud/ammo_blue_bg_low"
+		"teambg_3_lodef"	"../hud/ammo_blue_bg_lodef_low"			
 	}
 	"AmmoInClip"
 	{
